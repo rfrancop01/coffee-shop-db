@@ -126,6 +126,10 @@ git push
 
 ---
 
-## 🔗 Ricardo Franco Pérez
+## 🔗 Ricardo Franco Pérez 
+
+## 🔗 Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/ricardo-franco-pérez-1b036a242)
 
 Este proyecto lo desarrollé como parte de mi aprendizaje en bases de datos y herramientas de despliegue.
