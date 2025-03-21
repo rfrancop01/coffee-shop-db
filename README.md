@@ -5,7 +5,7 @@ Este repositorio contiene la configuración y estructura de la base de datos par
 
 ---
 
-## 📦 Estructura del Repositorio
+## Estructura del Repositorio
 
 - `docker-compose.yml`: Configuración de PostgreSQL en Docker.
 - `estructura_coffeeshop.sql`: Script SQL con la estructura de la base de datos.
@@ -14,7 +14,7 @@ Este repositorio contiene la configuración y estructura de la base de datos par
 
 ---
 
-## 🚀 Instalación y Configuración
+## Instalación y Configuración
 
 ### 1️⃣ **Clonación del repositorio**
 
@@ -49,7 +49,7 @@ Para gestionar la base de datos de forma visual, me conecté a PostgreSQL usando
 
 ---
 
-## 🛠 Creación de la Base de Datos
+## Creación de la Base de Datos
 
 Para crear la estructura de la base de datos, ejecuté el siguiente script en DBeaver:
 
@@ -65,7 +65,7 @@ SELECT table_name FROM information_schema.tables WHERE table_schema = 'public';
 
 ---
 
-## 🏗 Modelo de Datos
+## Modelo de Datos
 
 Diseñé la base de datos con las siguientes entidades:
 
@@ -76,13 +76,13 @@ Diseñé la base de datos con las siguientes entidades:
 - **detalle_pedidos** (pedido_id, producto_id, cantidad)
 - **facturas** (id, pedido_id, total, fecha)
 
-📌 **Diagrama ERD:**
+**Diagrama ERD:**
 
 ![ERD Coffee Shop](docs/erd_coffee_shop.png)
 
 ---
 
-## 🔀 Control de Versiones
+## Control de Versiones
 
 Mantuve el desarrollo versionado en Git, asegurándome de trabajar con ramas:
 
@@ -108,7 +108,7 @@ git push
 
 ---
 
-## 📌 Estado del Proyecto
+## Estado del Proyecto
 
 - [x] Configuración de PostgreSQL con Docker
 - [x] Conexión con DBeaver
