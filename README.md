@@ -130,6 +130,5 @@ git push
 
 ## 🔗 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/ricardo-franco-pérez-1b036a242)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-franco-p%C3%A9rez-1b036a242)
 Este proyecto lo desarrollé como parte de mi aprendizaje en bases de datos y herramientas de despliegue.
